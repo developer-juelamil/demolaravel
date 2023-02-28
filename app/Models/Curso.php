@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Curso extends Model
 {
     use HasFactory;
-    protected $table = "users";// video 11
+   // protected $table = "users";// video 11
 }
